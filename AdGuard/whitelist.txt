@@ -1,7 +1,11 @@
 # AppleMusic音乐
-
-# 夸克浏览器
-
+@@||aod.itunes.apple.com^$important
+# 夸克学习
+@@||quark.sm.cn^$important
+# 夸克图片
+@@||vt.sm.cn^$important
+# 夸克小说模式
+@@||alissl.ucdl.pp.uc.cn^$important
 # 百度关键词跳转
 @@||boxer.baidu.com^$important
 # 百度网盘exe下载
