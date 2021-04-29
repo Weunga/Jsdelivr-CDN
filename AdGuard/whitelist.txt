@@ -6,6 +6,14 @@
 @@||vt.sm.cn^$important
 # 夸克小说模式
 @@||alissl.ucdl.pp.uc.cn^$important
+# 夸克账户登录
+@@||access.open.uc.cn^$important
+# 夸克搜索框
+@@||quark.sm.cn^$important
+# 夸克数据同步
+@@||quark-api.uc.cn^$important
+# 夸克云盘
+@@||bcloud.uc.cn^$important
 # 百度关键词跳转
 @@||boxer.baidu.com^$important
 # 百度网盘exe下载
