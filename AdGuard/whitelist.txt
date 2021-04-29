@@ -6,12 +6,10 @@
 @@||boxer.baidu.com^$important
 # 百度网盘exe下载
 @@||issuecdn.baidupcs.com^$important
-# QQ里一些群助手通知
-@@||cdn.ark.qq.com^$important
 # 什么值得买-领券
 @@||adashbc.ut.taobao.com^$important
 # 微软edge商店图片
-184.27.29.252 store-images.s-microsoft.com
+184.27.29.252 store-images.s-microsoft.com^$important
 # 豌豆荚
-@@||www.wandoujia.com
-@@||android-apps.pp.cn
+@@||www.wandoujia.com^$important
+@@||android-apps.pp.cn^$important
