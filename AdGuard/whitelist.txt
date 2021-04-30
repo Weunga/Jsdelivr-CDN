@@ -1,5 +1,7 @@
 # AppleMusic音乐
 @@||aod.itunes.apple.com^$important
+# iMessage 头像
+@@||supportmetrics.apple.com^$important
 # 夸克学习
 @@||quark.sm.cn^$important
 # 夸克图片
