@@ -1,6 +1,6 @@
 # AppleMusic音乐
-@@||aod.itunes.apple.com^$important
-@@||*.itunes-apple.com.akadns.net^$important
+# @@||aod.itunes.apple.com^$important
+# @@||*.itunes-apple.com.akadns.net^$important
 # iMessage 头像
 @@||supportmetrics.apple.com^$important
 # 夸克学习
@@ -30,3 +30,9 @@
 @@||www.iconfont.cn^$important
 # easyicon图标库
 @@||www.easyicon.net^$important
+# QQ群内打卡图片
+@@||cdn.ark.qq.com^$important
+# 支付宝小程序饿了吗登陆
+@@||ipassport.ele.me^$important
+# 支付宝小程序饿了吗商品展示
+@@||shopping.ele.me^$important
