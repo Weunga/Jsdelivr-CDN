@@ -3,6 +3,8 @@
 # @@||*.itunes-apple.com.akadns.net^$important
 # iMessage 头像
 @@||supportmetrics.apple.com^$important
+# 夸克浏览器网络监测
+@@||access.open.uc.cn^$important
 # 夸克学习
 @@||quark.sm.cn^$important
 # 夸克图片
@@ -32,7 +34,15 @@
 @@||www.easyicon.net^$important
 # QQ群内打卡图片
 @@||cdn.ark.qq.com^$important
+# QQ 聊天里的分享
+@@||sq.bls.mdt.qq.com^$important
+# QQ小程序 微博分享
+@@||istrategy.beacon.qq.com^$important
 # 支付宝小程序饿了吗登陆
 @@||ipassport.ele.me^$important
 # 支付宝小程序饿了吗商品展示
 @@||shopping.ele.me^$important
+# 支付宝小程序饿了么美食板块
+@@||ipassport.ele.me^$important
+# 支付宝小程序饿了么购物车
+@@||alsc-buy2.ele.me^$important
