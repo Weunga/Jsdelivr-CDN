@@ -46,3 +46,5 @@
 @@||ipassport.ele.me^$important
 # 支付宝小程序饿了么购物车
 @@||alsc-buy2.ele.me^$important
+# 阿里云DNS网页
+@@||www.alidns.com^$important
