@@ -4,6 +4,7 @@
 # iMessage 头像
 @@||supportmetrics.apple.com^$important
 # 夸克浏览器网络监测
+@@||www.myquark.cn^$important
 @@||access.open.uc.cn^$important
 # 夸克学习
 @@||quark.sm.cn^$important
