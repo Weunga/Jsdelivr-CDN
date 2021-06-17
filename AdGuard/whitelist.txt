@@ -49,3 +49,5 @@
 @@||alsc-buy2.ele.me^$important
 # 阿里云DNS网页
 @@||www.alidns.com^$important
+# 阿里云官网js
+@@||gj.mmstat.com^$important
