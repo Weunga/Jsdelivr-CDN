@@ -1027,7 +1027,6 @@ line-height: 50px;
 margin: 0 0 0 17%;
 position: relative;
 z-index: 1;
-white-space: nowrap;
 overflow: hidden;
 text-overflow: ellipsis;
 width: 70%;
