@@ -20,6 +20,8 @@
 @@||quark-api.uc.cn^$important
 # 夸克云盘
 @@||bcloud.uc.cn^$important
+# 夸克未成年人模式
+@@||h5.sm.cn^$important
 # 百度关键词跳转
 @@||boxer.baidu.com^$important
 # 百度网盘exe下载
