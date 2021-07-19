@@ -51,3 +51,7 @@
 @@||alsc-buy2.ele.me^$important
 # 阿里云DNS网页
 @@||www.alidns.com^$important
+# 搜狗输入法PC网页
+@@||sogoucdn.com^$important
+# 360极速浏览器网页下载
+@@||down.360safe.com^$important
