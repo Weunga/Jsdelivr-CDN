@@ -13,6 +13,8 @@
 @@||vt.sm.cn^$important
 # 夸克小说模式
 @@||alissl.ucdl.pp.uc.cn^$important
+# 夸克小说
+@@||api-novel.uc.cn^$important
 # 夸克账户登录
 @@||access.open.uc.cn^$important
 # 夸克搜索框
