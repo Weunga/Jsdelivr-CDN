@@ -58,3 +58,5 @@
 @@||sogoucdn.com^$important
 # 360极速浏览器网页下载
 @@||down.360safe.com^$important
+# jwplayer播放器cdn
+@@||jwpcdn.com^$important
