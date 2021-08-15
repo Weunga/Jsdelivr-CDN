@@ -60,3 +60,5 @@
 @@||down.360safe.com^$important
 # jwplayer播放器cdn
 @@||jwpcdn.com^$important
+# avgle视频封面显示
+@@||static-clst.avgle.com^$important
