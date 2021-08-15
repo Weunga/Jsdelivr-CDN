@@ -38,6 +38,8 @@
 @@||www.iconfont.cn^$important
 # easyicon图标库
 @@||www.easyicon.net^$important
+# QQ头像
+@@||p.qlogo.cn^$important
 # QQ群内打卡图片
 @@||cdn.ark.qq.com^$important
 # QQ 聊天里的分享
