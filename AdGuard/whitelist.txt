@@ -65,3 +65,7 @@
 # avgle视频封面显示
 @@||static-clst.avgle.com^$important
 # Pornhub “可能”封面图
+@@||trafficjunky.com^$important
+@@||hotjar.com^$important
+@@||pornhub.com^$important
+@@||phncdn.com^$important
