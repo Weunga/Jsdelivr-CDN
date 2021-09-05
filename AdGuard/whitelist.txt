@@ -66,3 +66,4 @@
 @@||static-clst.avgle.com^$important
 # Pornhub “可能”封面图
 @@||hubt.pornhub.com^$important
+@@||hotjar.com^$important
