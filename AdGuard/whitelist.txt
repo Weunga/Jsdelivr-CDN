@@ -69,3 +69,5 @@
 @@||hotjar.com^$important
 @@||pornhub.com^$important
 @@||phncdn.com^$important
+# 驾考宝典教学视频
+@@||short-video.kakamobi.cn^$important
