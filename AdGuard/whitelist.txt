@@ -72,3 +72,6 @@
 @@||phncdn.com^$important
 # 驾考宝典教学视频
 @@||short-video.kakamobi.cn^$important
+# 我的网站
+@@||zhebk.cn^$important
+@@||zixu.site^$important
