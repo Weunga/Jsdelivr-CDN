@@ -76,4 +76,4 @@
 @@||zhebk.cn^$important
 @@||zixu.site^$important
 # OneDrive Mac客户端连接
-@@||self.events.data.microsoft.com^$important
+@@||1drv.com^$important
