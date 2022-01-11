@@ -25,6 +25,8 @@
 @@||bcloud.uc.cn^$important
 # 夸克未成年人模式
 @@||h5.sm.cn^$important
+# 夸克神马搜索
+@@||mipstatic.sm-tc.cn^$important
 # 百度关键词跳转
 @@||boxer.baidu.com^$important
 # 百度网盘exe下载
@@ -60,16 +62,6 @@
 @@||sogoucdn.com^$important
 # 360极速浏览器网页下载
 @@||down.360safe.com^$important
-# jwplayer播放器cdn
-@@||jwpcdn.com^$important
-# avgle视频封面显示
-@@||static-clst.avgle.com^$important
-# Pornhub “可能”封面图
-@@||trafficjunky.com^$important
-@@||trafficjunky.net^$important
-@@||hotjar.com^$important
-@@||pornhub.com^$important
-@@||phncdn.com^$important
 # 驾考宝典教学视频
 @@||short-video.kakamobi.cn^$important
 # 我的网站
