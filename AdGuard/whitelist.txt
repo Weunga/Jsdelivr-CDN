@@ -69,5 +69,3 @@
 @@||zixu.site^$important
 # OneDrive Mac客户端连接
 @@||1drv.com^$important
-# 流氓下载器
-@@||xc.zhongguohao123.com^$important
