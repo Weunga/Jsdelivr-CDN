@@ -48,6 +48,8 @@
 @@||sq.bls.mdt.qq.com^$important
 # QQ小程序 微博分享
 @@||istrategy.beacon.qq.com^$important
+# 支付宝小程序饿了吗^$important
+@@||waimai-guide.ele.me
 # 支付宝小程序饿了吗登陆
 @@||ipassport.ele.me^$important
 # 支付宝小程序饿了吗商品展示
