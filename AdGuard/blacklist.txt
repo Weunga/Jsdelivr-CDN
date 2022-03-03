@@ -3,3 +3,5 @@
 # 影视网站广告 yhdm04.com
 ||p*.bdxiguaimg.com^$important
 ||jtu24k.aoqinglv.cn^$important
+# 色情广告图片服务器
+||i.laifupal.com^$important
