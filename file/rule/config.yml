@@ -9,13 +9,10 @@ ipv6: true
 external-controller: :9090
 dns:
   enable: true
-  enhanced-mode: fake-ip
-  ipv6: false
+  ipv6: true
   listen: 0.0.0.0:53
+  enhanced-mode: redir-host
+  default-nameserver:
+    - 112.124.101.139
   nameserver:
     - https://dns.zhebk.cn/dns-query
-  fallback:
-    - https://dns.zhebk.cn/dns-query
-  fake-ip-filter:
-    - '*.lan'
-    - localhost.ptlogin2.qq.com
