@@ -71,3 +71,5 @@
 @@||zixu.site^$important
 # OneDrive Mac客户端连接
 @@||1drv.com^$important
+# 小米网页客服头像
+@@||cnbj1.fds.api.xiaomi.com^$important
