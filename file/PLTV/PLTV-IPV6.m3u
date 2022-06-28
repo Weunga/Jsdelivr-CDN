@@ -1,9 +1,24 @@
 #EXTM3U
-#EXTINF:-1,CCTV1-综合 1080
+#EXTINF:-1,CCTV1 综合 1080
 http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 
-#EXTINF:-1,CCTV2-财经 1080
+#EXTINF:-1,CCTV2 财经 1080
 http://[2409:8087:4402:20:1:1216:401:17]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226466/index.m3u8
 
-#EXTINF:-1,CCTV3-综艺 1080
+#EXTINF:-1,CCTV3 综艺 1080
 http://[2409:8087:4402:20:1:1216:401:2f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8
+
+#EXTINF:-1,CCTV4 中文国际 1080
+http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8
+
+#EXTINF:-1,CCTV5 体育 1080
+http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
+
+#EXTINF:-1,CCTV5+ 体育赛事 1080
+http://[2409:8087:4400:20:1:a0f:12:f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+
+#EXTINF:-1,CCTV6 电影 1080
+http://[2409:8087:4400:20:1:70f:1011:1a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226485/index.m3u8
+
+#EXTINF:-1,CCTV7 国防军事 1080
+http://[2409:8087:4400:20:1:70f:1011:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226486/index.m3u8
