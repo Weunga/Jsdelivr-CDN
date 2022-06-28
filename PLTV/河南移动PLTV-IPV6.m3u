@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,CCTV1-综合 1080
+http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+
+#EXTINF:-1,CCTV2-财经 1080
+http://[2409:8087:4402:20:1:1216:401:17]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226466/index.m3u8
+
+#EXTINF:-1,CCTV3-综艺 1080
+http://[2409:8087:4402:20:1:1216:401:2f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8
