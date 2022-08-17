@@ -73,3 +73,6 @@
 @@||1drv.com^$important
 # 小米网页客服头像
 @@||cnbj1.fds.api.xiaomi.com^$important
+# 美颜相机滤镜下载
+@@||my-material.zone1.meitudata.com^$important
+@@||meitubeauty.meitudata.com^$important
